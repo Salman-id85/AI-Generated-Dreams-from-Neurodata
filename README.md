@@ -145,7 +145,7 @@ docker run -p 8501:8501 neurodreams
 
 Here's a sample "dream" visualization generated from EEG data during REM sleep:
 
-*(Imagine a surreal image here: swirling colors representing neural firings, morphing into dream-like landscapes. In a real repo, embed an image like: ![Sample Dream](examples/sample_dream.png))*
+*(Imagine a surreal image here: swirling colors representing neural firings, morphing into dream-like landscapes. In a real repo, embed an image like: ![Sample Dream]([examples/sample_dream.png](https://github.com/Salman-id85/AI-Generated-Dreams-from-Neurodata/blob/main/docs/figures/Screenshot%202025-09-30%20231212.png)))*
 
 ## Contributing
 
